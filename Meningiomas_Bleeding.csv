@@ -1,0 +1,295 @@
+Row_Number,Authors,Year,Age,Gender,Type_of_Bleeding,Bleeding_Location,Patology_Diagnosis,Consciousness,Treatment,Focal_Deficit_Pre_Op,Post_MRI_Era,Mass_Efect_Tumor_Plus_Hemorrhage_Volume,Glasgow_Scale_Category,Outcome
+1,Cushing & Eisenhardt,1938,27,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+2,Cushing & Eisenhardt,1938,53,M,Subarachnoid Hemorrage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+3,Busch,1939,56,M,Subarachnoid Hemorrage,Lateral Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+4,Globus & Sapirstein,1942,56,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+5,Walton,1953,50,F,Subarachnoid Hemorrage,Convexity,Fibroblastic,Permanently Unconscius,Not Operated,Yes,No,125000,Severe,Morbimortality
+6,Moore,1954,72,M,Subarachnoid Hemorrage,Olfatory Groove,Fibroblastic,Permanently Unconscius,Not Operated,Yes,No,125000,Severe,Morbimortality
+7,Moore,1954,66,F,Subarachnoid Hemorrage,Convexity,Angiomatous,Permanently Unconscius,Not Operated,Yes,No,125000,Severe,Morbimortality
+8,Askenasy & Behmoaram,1960,34,F,Subarachnoid Hemorrage,Lateral Ventricle,Psammomatous,Permanently Unconscius,Surgery,Yes,No,80000,Severe,Recovery
+9,Askenasy & Behmoaram,1960,38,F,Subarachnoid Hemorrage,Lateral Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+10,Askenasy & Behmoaram,1960,32,M,Subarachnoid Hemorrage,Lateral Ventricle,Psammomatous,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+11,El-Banhawy & Walter,1962,72,M,Subarachnoid Hemorrage,Sphenoid,Meningothelial,Unconscious After Deterioration,Surgery,Yes,No,80000,Severe,Morbimortality
+12,El-Banhawy & Walter,1962,20,M,Subarachnoid Hemorrage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,125000,Mild,Morbimortality
+13,McLaurin & Helmer,1962,73,F,Subarachnoid Hemorrage,Convexity,Angiomatous,Unconscious After Deterioration,Surgery,Yes,No,234000,Severe,Morbimortality
+14,"Goran, et al.",1965,68,F,Subarachnoid Hemorrage,Convexity,Anaplastic,Permanently Unconscius,Not Operated,Yes,No,125000,Severe,Morbimortality
+15,"Goran, et al.",1965,46,M,Subarachnoid Hemorrage,Falx,Meningothelial,Unconscious After Deterioration,Not Operated,Yes,No,80000,Severe,Morbimortality
+16,"Goran, et al.",1965,55,M,Subarachnoid Hemorrage,Lateral Ventricle,Meningothelial,Unconscious After Deterioration,Surgery,Yes,No,125000,Moderate,Morbimortality
+17,"Locksley, et al.",1966,56,F,Subarachnoid Hemorrage,Parasagittal,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+18,Skultety,1968,58,M,Subarachnoid Hemorrage,Sphenoid,Fibroblastic,Conscious Preoperatively,Surgery,No,No,80000,Mild,Recovery
+19,"Rosenberg, et al.",1975,44,M,Subarachnoid Hemorrage,Meckel's Cave,Angiomatous,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+20,"Rosenberg, et al.",1975,48,F,Subarachnoid Hemorrage,Meckel's Cave,Transitional,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+21,"Smith, et al.",1975,14,F,Subarachnoid Hemorrage,Lateral Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Recovery
+22,"Shinmura, et al.",1976,48,F,Subarachnoid Hemorrage,Falx,Angiomatous,Conscious Preoperatively,Surgery,Yes,No,125000,Mild,Recovery
+23,Yasargil & So,1976,50,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Psammomatous,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+24,Yasargil & So,1976,47,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+25,"Fortuna, et al.",1977,49,F,Subarachnoid Hemorrage,Tuberculum Sellae,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+26,Ohaegbulam,1977,40,M,Subarachnoid Hemorrage,Sphenoid,Fibroblastic,Permanently Unconscius,Not Operated,Yes,No,125000,Severe,Morbimortality
+27,Hamer,1979,36,M,Subarachnoid Hemorrage,Posterior Cranial Fossa,Anaplastic,Conscious Preoperatively,Surgery,Yes,No,8000,Mild,Recovery
+28,"Latchaw, et al.",1981,46,F,Subarachnoid Hemorrage,Clival,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,125000,Mild,Morbimortality
+29,"Lazaro, et al.",1981,46,M,Subarachnoid Hemorrage,Convexity,Fibroblastic,Permanently Unconscius,Surgery,Yes,No,125000,Mild,Morbimortality
+30,"Lazaro, et al.",1981,59,M,Subarachnoid Hemorrage,Convexity ,Psammomatous,Conscious Preoperatively,Surgery,Yes,No,80000,Mild,Recovery
+31,"Wakai, et al.",1982,56,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+32,"Brambilla, et al.",1983,76,F,Subarachnoid Hemorrage,Sphenoid,Angiomatous,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+33,"Nachanakian, et al.",1983,36,F,Subarachnoid Hemorrage,Lateral Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+34,"Pluchino, et al.",1983,47,M,Subarachnoid Hemorrage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,No,64000,Mild,Recovery
+35,"Pluchino, et al.",1983,46,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,8000,Mild,Recovery
+36,"Hosaka, et al.",1985,69,M,Subarachnoid Hemorrage,Lateral Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Moderate,Morbimortality
+37,"Bloomgarden, et al.",1987,65,F,Subarachnoid Hemorrage,Anterior Clinoid Process,Transitional,Conscious Preoperatively,Surgery,No,Yes,125000,Mild,Recovery
+38,Jones & Blumbergs,1989,58,F,Subarachnoid Hemorrage,Olfatory Groove,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,5000,Mild,Recovery
+39,"Martinez-Lage, et al.",1991,67,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Fibroblastic,Unconscious After Deterioration,Not Operated,Yes,Yes,80000,Severe,Morbimortality
+40,"Nakao, et al.",1991,56,M,Subarachnoid Hemorrage,Sphenoid,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,80000,Mild,Recovery
+41,"Pozzi, et al.",1993,56,F,Subdural Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+42,"Pozzi, et al.",1993,56,F,Subdural Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+43,"Cervoni, et al.",1993,58,F,Subarachnoid Hemorrage,Anterior Clinoid Process,Anaplastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Recovery
+44,"Cervoni, et al.",1993,42,F,Subarachnoid Hemorrage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Recovery
+45,"Lang, et al.",1995,64,M,Subarachnoid Hemorrage,Lateral Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+46,"Germano, et al.",1996,53,M,Subarachnoid Hemorrage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,125000,Severe,Morbimortality
+47,"Murai, et al.",1996,39,F,Subarachnoid Hemorrage,Lateral Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Mild,Morbimortality
+48,"Cheng, et al., 1997 ",1997,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+49,Lieu & Howng,1999,19,M,Subarachnoid Hemorrage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,125000,Severe,Recovery
+50,"Yücesoy, et al.",1999,48,F,Subarachnoid Hemorrage,Parasagittal,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+51,"Sakowitz, et al.",2005,50,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Cystic ,Permanently Unconscius,Surgery,Yes,Yes,800000,Severe,Morbimortality
+52,"Bosnjak, et al.",2005,44,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Atypical,Conscious Preoperatively,Surgery,No,Yes,15625,Mild,Recovery
+53,"Bosnjak, et al.",2005,74,M,Subarachnoid Hemorrage,Falx,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Recovery
+54,"McMaster, et al.",2007,55,F,Subarachnoid Hemorrage,Lateral Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,27000,Mild,Recovery
+55,"Fu, et al.",2011,46,F,Subarachnoid Hemorrage,Lateral Ventricle,Transitional,Conscious Preoperatively,Surgery,No,Yes,18200,Mild,Morbimortality
+56,"Aoyama,et al.",2015,59,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Transitional,Conscious Preoperatively,Surgery,No,Yes,8000,Mild,Recovery
+57,"Prickett, et al.",2018,49,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Lateral Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,43008,Mild,Morbimortality
+58,"Mandour, et al.",2018,61,F,Subarachnoid Hemorrage,Lateral Ventricle,Meningothelial,Unconscious After Deterioration,Surgery,Yes,Yes,100000,Mild,Morbimortality
+59,"Pressman, et al.",2019,56,F,Subarachnoid Hemorrage,Clival,Meningothelial,Permanently Unconscius,Surgery,Yes,Yes,34200,Severe,Morbimortality
+60,Gardner,1931,18,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Recovery
+61,Drake & McGee,1961,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+62,Hörster & Walter,1961,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+63,Zimmerman,1963,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Angiomatous,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+64,Zimmerman,1963,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Angiomatous,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+65,"Goran, et al.",1965,65,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Permanently Unconscius,Surgery,Yes,No,24000,Severe,Morbimortality
+66,"Goran, et al.",1965,42,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Permanently Unconscius,Not Operated,Yes,No,64000,Severe,Morbimortality
+67,Bilodeau & Beraud,1966,46,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Meningothelial,Unconscious After Deterioration,Surgery,Yes,No,1520875,Severe,Morbimortality
+68,"Gruszkiewicz, et al.",1969,18,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,64000,Mild,Morbimortality
+69,"Flynn, et al.",1971,78,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Permanently Unconscius,Not Operated,Yes,No,125000,Severe,Morbimortality
+70,"Hung, et al.",1972,42,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+71,"Fukumitsu, et al.",1973,49,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,1520875,Severe,Morbimortality
+72,"Budny, et al.",1977,60,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Anaplastic,Permanently Unconscius,Surgery,Yes,No,24000,Severe,Morbimortality
+73,"Nakao, et al.",1977,56,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Sphenoid,Meningothelial,Conscious Preoperatively,Surgery,No,No,80000,Severe,Recovery
+74,Bruno & Ober,1979,78,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Permanently Unconscius,Not Operated,Yes,No,64000,Severe,Morbimortality
+75,"Kothbauer, et al.",1979,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Third Ventricle,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+76,Helle & Conley,1980,77,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Transitional,Conscious Preoperatively,Surgery,Yes,No,125000,Mild,Morbimortality
+77,"Nishijima, et al.",1980,21,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Anaplastic,Conscious Preoperatively,Surgery,No,No,64000,Mild,Recovery
+78,"Russell, et al.",1980,58,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+79,"Russell, et al.",1980,70,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Sphenoid,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+80,"Russell, et al.",1980,83,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,64000,Mild,Morbimortality
+81,"Russell, et al.",1980,78,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Fibroblastic,Conscious Preoperatively,Surgery,No,No,64000,Mild,Morbimortality
+82,"Russell, et al.",1980,72,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Sphenoid,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Mild,Morbimortality
+83,"Russell, et al.",1980,65,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+84,"Cabezudo-Artero, et al.",1981,52,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Meningothelial,Permanently Unconscius,Surgery,Yes,No,125000,Severe,Morbimortality
+85,"Tsuchida, et al.",1981,46,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,64000,Mild,Morbimortality
+86,"Kaur, et al.",1982,22,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Angiomatous,Conscious Preoperatively,Surgery,Yes,No,125000,Mild,Morbimortality
+87,"Wakai, et al.",1982,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+88,"Wakai, et al.",1982,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+89,"Wakai, et al.",1982,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+90,"Matsumura, et al.",1982,6,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Cystic ,Conscious Preoperatively,Surgery,Yes,No,64000,Mild,Morbimortality
+91,"Fritz, et al.",1983,67,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+92,Kohli & Crouch,1984,37,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,10000,Mild,Recovery
+93,"Kabuto, et al.",1987,37,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,125000,Severe,Recovery
+94,"Kabuto, et al.",1987,59,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,125000,Severe,Recovery
+95,Jones & Blumbergs,1989,32,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Not Operated,Yes,Yes,125000,Severe,Morbimortality
+96,Jones & Blumbergs,1989,62,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Angiomatous,Permanently Unconscius,Not Operated,Yes,Yes,125000,Severe,Morbimortality
+97,Jones & Blumbergs,1989,78,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Olfatory Groove,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,10,Mild,Recovery
+98,"Kurokawa, et al.",1989,81,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+99,"Niwa, et al.",1989,63,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,125000,Severe,Recovery
+100,Russell & Rubinstein,1989,58,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Sphenoid,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Recovery
+101,"Martinez-Lage, et al.",1991,50,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Permanently Unconscius,Surgery,Yes,Yes,24000,Severe,Morbimortality
+102,"Yoshioka, et al.",1995,76,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Permanently Unconscius,Not Operated,Yes,Yes,125000,Severe,Morbimortality
+103,"Onesti, et al.",1996,72,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,64000,Mild,Morbimortality
+104,"Wakamoto, et al.",1998,56,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Olfatory Groove,Transitional,Conscious Preoperatively,Surgery,No,Yes,10,Mild,Recovery
+105,Lieu & Howng,1999,44,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Recovery
+106,Lieu & Howng,1999,29,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,125000,Severe,Recovery
+107,"Roux-Vaillard, et al.",1999,65,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Anterior Clinoid Process,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,64000,Moderate,Morbimortality
+108,"Roux-Vaillard, et al.",1999,49,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Morbimortality
+109,"Roux-Vaillard, et al.",1999,46,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,42180,Mild,Recovery
+110,"Kim, et al.",2000,77,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Recovery
+111,"Kim, et al.",2000,72,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Atypical,Permanently Unconscius,Surgery,Yes,Yes,27000,Severe,Morbimortality
+112,"Kim, et al.",2000,65,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Atypical,Conscious Preoperatively,Surgery,Yes,Yes,64000,Mild,Recovery
+113,"Almeida, et al.",2008,66,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Sphenoid,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,43008,Mild,Morbimortality
+114,"Vij, et al.",2012,16,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Spinal Cord,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Morbimortality
+115,"Vij, et al.",2012,45,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Meningothelial,Unconscious After Deterioration,Surgery,Yes,Yes,1520875,Severe,Morbimortality
+116,"Sinurat, et al.",2017,46,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Angiomatous,Unconscious After Deterioration,Surgery,No,Yes,234000,Severe,Recovery
+117,"Moon, et al.",2019,35,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Lateral Ventricle,Meningothelial,Unconscious After Deterioration,Surgery,Yes,Yes,34816,Severe,Morbimortality
+118,"Aggarwal, et al.",2019,55,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Meningothelial,Unconscious After Deterioration,Surgery,Yes,Yes,1520875,Moderate,Morbimortality
+119,"Aggarwal, et al.",2019,72,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Sphenoid,Meningothelial,Unconscious After Deterioration,Surgery,No,Yes,80000,Mild,Morbimortality
+120,"Aggarwal, et al.",2019,25,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,47232,Mild,Recovery
+121,"Kim, et al.",2019,68,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Spinal Cord,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,10000,Mild,Recovery
+122,Therkelsen,1961,56,F,Subdural Hemorrhage,Convexity,Fibroblastic,Permanently Unconscius,Surgery,Yes,No,125000,Severe,Morbimortality
+123,Bingas & Meese,1966,65,M,Subdural Hemorrhage,Convexity,Meningothelial,Permanently Unconscius,Surgery,No,No,1638,Severe,Recovery
+124,Cusick & Bailey,1972,47,F,Subdural Hemorrhage,Convexity,Transitional,Permanently Unconscius,Not Operated,Yes,No,836000,Severe,Morbimortality
+125,Northfield,1973,56,F,Subdural Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+126,"Modesti, et al.",1976,59,M,Subdural Hemorrhage,Sphenoid,Meningothelial,Unconscious After Deterioration,Surgery,Yes,No,5850,Moderate,Recovery
+127,"Modesti, et al.",1976,49,F,Subdural Hemorrhage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,125000,Mild,Morbimortality
+128,"Modesti, et al.",1976,72,F,Subdural Hemorrhage,Parasagittal,Angiomatous,Permanently Unconscius,Surgery,Yes,No,314432,Severe,Morbimortality
+129,"Modesti, et al.",1976,69,M,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,12000,Moderate,Morbimortality
+130,"Walsh, et al.",1977,77,F,Subdural Hemorrhage,Olfatory Groove,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+131,"Everett, et al.",1979,65,M,Subdural Hemorrhage,Convexity,Meningothelial,Unconscious After Deterioration,Surgery,Yes,No,80000,Severe,Morbimortality
+132,Reverdin & Werner,1981,49,M,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,No,1638,Severe,Recovery
+133,"Sakai, et al.",1981,36,M,Subdural Hemorrhage,Sphenoid,Anaplastic,Conscious Preoperatively,Surgery,Yes,No,80000,Moderate,Morbimortality
+134,Patil,1982,75,M,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,45000,Mild,Recovery
+135,"Baskinis, et al.",1984,68,M,Subdural Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,No,Yes,3375,Mild,Recovery
+136,"Tomita, et al.",1985,61,F,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,27000,Mild,Recovery
+137,"Wang, et al.",1985,62,F,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,45000,Mild,Recovery
+138,Kotwica & Zawirski,1986,32,M,Subdural Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,1638,Severe,Recovery
+139,"Tokunaga, et al.",1988,61,F,Subdural Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,No,Yes,15625,Mild,Recovery
+140,Jones & Blumbergs,1989,76,F,Subdural Hemorrhage,Convexity,Meningothelial,Permanently Unconscius,Not Operated,Yes,Yes,2500,Severe,Morbimortality
+141,Russell & Rubinstein,1989,56,F,Subdural Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+142,"Sato, et al.",1989,46,F,Subdural Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,3375,Mild,Recovery
+143,"Chang, et al.",1990,56,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,9200,Mild,Recovery
+144,"Niikawa, et al.",1990,49,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,9200,Mild,Recovery
+145,"Martinez-Lage, et al.",1991,70,M,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,9200,Mild,Recovery
+146,"Chaskis, et al.",1992,59,F,Subdural Hemorrhage,Convexity,Angiomatous,Permanently Unconscius,Surgery,No,Yes,1638,Severe,Recovery
+147,"Chaskis, et al.",1992,62,M,Subdural Hemorrhage,Convexity,Meningothelial,Unconscious After Deterioration,Surgery,Yes,Yes,80000,Severe,Morbimortality
+148,"Chen, et al.",1992,79,M,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,64000,Mild,Morbimortality
+149,Renowden & Hourihan,1992,41,F,Subdural Hemorrhage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,10000,Mild,Recovery
+150,"Russell, et al.",1993,55,F,Subdural Hemorrhage,Convexity,Transitional,Unconscious After Deterioration,Surgery,Yes,Yes,5850,Moderate,Recovery
+151,"Koumtchev, et al.",1993,26,F,Subdural Hemorrhage,Convexity,Fibroblastic,Unconscious After Deterioration,Surgery,Yes,Yes,114638,Severe,Morbimortality
+152,"Ueno, et al.",1993,67,M,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,9200,Mild,Recovery
+153,"Tanaka, et al.",1994,47,F,Subdural Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,3375,Mild,Recovery
+154,"Popovic, et al.",1994,47,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,15625,Mild,Recovery
+155,Spektor et al.,1995,73,F,Subdural Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,12000,Moderate,Morbimortality
+156,"Kumar, et al.",1996,5,M,Subdural Hemorrhage,Parasagittal,Chordoid,Unconscious After Deterioration,Surgery,Yes,Yes,1520875,Severe,Morbimortality
+157,"Moriyama, et al.",1998,68,M,Subdural Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,1638,Severe,Recovery
+158,Scarow & Segal,1998,77,F,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,36000,Mild,Recovery
+159,"Shimizu, et al.",1998,67,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,48000,Mild,Recovery
+160,"Sunada, et al.",1998,48,F,Subdural Hemorrhage,Parasagittal,Anaplastic,Conscious Preoperatively,Surgery,Yes,Yes,10000,Mild,Recovery
+161,"Arbelaez, et al.",1999,65,M,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,45000,Mild,Recovery
+162,"Timothy, et al.",1999,68,M,Subdural Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,No,Yes,15625,Mild,Recovery
+163,"Okuno, et al.",1999,78,F,Subdural Hemorrhage,Falx,Transitional,Permanently Unconscius,Surgery,Yes,Yes,216000,Severe,Morbimortality
+164,"Lee, et al.",2001,43,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Lateral Ventricle,Psammomatous,Conscious Preoperatively,Surgery,No,Yes,132651,Mild,Recovery
+165,"Dharker, et al., 2001 ",1997,56,F,Subdural Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+166,"Lefranc, et al.",2001,59,F,Subdural Hemorrhage,Convexity,Angiomatous,Permanently Unconscius,Surgery,No,Yes,1638,Severe,Recovery
+167,"Lefranc, et al.",2001,62,M,Subdural Hemorrhage,Convexity,Meningothelial,Unconscious After Deterioration,Surgery,No,Yes,80000,Severe,Morbimortality
+168,"Lefranc, et al.",2001,68,F,Subdural Hemorrhage,Parasagittal,Transitional,Unconscious After Deterioration,Surgery,No,Yes,5850,Severe,Recovery
+169,"Lefranc, et al.",2001,85,F,Subdural Hemorrhage,Convexity,Atypical,Permanently Unconscius,Surgery,Yes,Yes,1638,Severe,Recovery
+170,Goldberg et al.,2002,62,M,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,8000,Moderate,Recovery
+171,"Rabinstein, et al.",2002,84,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,1638,Severe,Recovery
+172,"Niiro, et al.",2003,53,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Anaplastic,Unconscious After Deterioration,Surgery,Yes,Yes,42000,Moderate,Morbimortality
+173,"Niiro, et al.",2003,64,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Morbimortality
+174,"Niiro, et al.",2003,82,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Transitional,Unconscious After Deterioration,Surgery,Yes,Yes,42000,Moderate,Morbimortality
+175,"Niiro, et al.",2003,68,M,Subdural Hemorrhage,Parasagittal,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Morbimortality
+176,"Niiro, et al.",2003,68,F,Subarachnoid Hemorrage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Morbimortality
+177,"Niiro, et al.",2003,68,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,64000,Mild,Morbimortality
+178,"Bruno, et al.",2003,56,F,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+179,"Dallochio, et al.",2003,73,F,Subdural Hemorrhage,Falx,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+180,"Goyal, et al.",2003,66,M,Subdural Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Recovery
+181,"Kouyialis, et al., 2004 ",1997,72,F,Subdural Hemorrhage,Parasagittal,Atypical,Unconscious After Deterioration,Surgery,Yes,No,27000,Mild,Morbimortality
+182,"Kuzeyli, et al.",2004,51,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+183,"Kuzeyli, et al.",2004,63,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+184,"Kuzeyli, et al.",2004,72,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,1520875,Severe,Morbimortality
+185,"Kuzeyli, et al.",2004,45,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+186,"Kuzeyli, et al.",2004,60,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Tuberculum Sellae,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+187,"Kuzeyli, et al.",2004,65,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+188,"Kuzeyli, et al.",2004,66,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+189,"Kuzeyli, et al.",2004,56,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+190,"Kuzeyli, et al.",2004,53,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Psammomatous,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+191,"Kuzeyli, et al.",2004,62,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+192,"Kuzeyli, et al.",2004,55,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+193,"De Silva, et al.",2004,61,F,Subdural Hemorrhage,Sphenoid,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Morbimortality
+194,"Di Rocco, et al.",2006,72,M,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,64000,Mild,Morbimortality
+195,"Di Rocco, et al.",2006,74,M,Subdural Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,15625,Mild,Morbimortality
+196,"Mitsuhara, et al.",2006,60,F,Subdural Hemorrhage,Posterior Cranial Fossa,Meningothelial,Unconscious After Deterioration,Surgery,Yes,Yes,5850,Moderate,Recovery
+197,"Ziyal, et al.",2006,57,M,Subdural Hemorrhage,Posterior Cranial Fossa,Metaplastic,Unconscious After Deterioration,Surgery,Yes,Yes,5850,Moderate,Morbimortality
+198,"Kasliwal, et al.",2007,56,F,Subdural Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Recovery
+199,"Kagoshima, et al.",2008,49,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Meningothelial,Unconscious After Deterioration,Surgery,Yes,Yes,1520875,Severe,Morbimortality
+200,"Kashimura, et al.",2008,55,M,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,12000,Mild,Recovery
+201,"Miyazawa, et al.",2008,66,F,Subdural Hemorrhage,Falx,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,216000,Mild,Morbimortality
+202,"Worm, et al.",2009,64,M,Subdural Hemorrhage,Falx,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,32768,Mild,Morbimortality
+203,"Mangubat, et al.",2010,62,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Clival,Atypical,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Morbimortality
+204,"Miyajima, et al.",2010,63,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Transitional,Unconscious After Deterioration,Surgery,Yes,Yes,42000,Severe,Morbimortality
+205,Lakshmi Prasad et al.,2010,73,M,Subdural Hemorrhage,Sphenoid,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Severe,Morbimortality
+206,"Lo, et al.",2010,59,F,Subdural Hemorrhage,Parasagittal,Atypical,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Morbimortality
+207,"Prasad, et al.",2010,73,M,Subdural Hemorrhage,Sphenoid,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,80000,Mild,Recovery
+208,"Bellut, et al.",2011,65,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Transitional,Unconscious After Deterioration,Surgery,Yes,Yes,42000,Severe,Morbimortality
+209,"Motegi, et al.",2012,29,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,9200,Mild,Recovery
+210,"Sasagawa, et al.",2013,72,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Unconscious After Deterioration,Surgery,Yes,Yes,42000,Severe,Morbimortality
+211,"da Rocha, et al.",2013,52,M,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,9200,Mild,Morbimortality
+212,"Chonan, et al.",2013,67,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,9200,Mild,Recovery
+213,"Hambra, et al.",2014,59,M,Subdural Hemorrhage,Sphenoid,Angiomatous,Conscious Preoperatively,Surgery,No,Yes,3375,Mild,Recovery
+214,"Levine, et al.",2014,69,M,Subdural Hemorrhage,Convexity,Meningothelial,Unconscious After Deterioration,Surgery,No,Yes,12000,Moderate,Morbimortality
+215,"Munivenkatappa, et al.",2014,65,F,Subdural Hemorrhage,Convexity,Atypical,Unconscious After Deterioration,Surgery,No,Yes,114638,Severe,Morbimortality
+216,"Eljebbouri, et al.",2014,51,M,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,9200,Mild,Recovery
+217,"Kim, et al.",2015,61,F,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,125000,Mild,Recovery
+218,"Krishnan, et al.",2015,62,M,Subdural Hemorrhage,Falx,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,45000,Mild,Recovery
+219,"Ravindran, et al.",2017,36,F,Subdural Hemorrhage,Convexity,Fibroblastic,Unconscious After Deterioration,Surgery,No,Yes,1380,Mild,Recovery
+220,"Sohn, et al.",2017,30,M,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,45000,Mild,Recovery
+221,"Entezami, et al.",2018,49,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Clival,Meningothelial,Unconscious After Deterioration,Not Operated,Yes,Yes,10260,Mild,Morbimortality
+222,"Teramoto, et al.",2018,70,M,Subdural Hemorrhage,Parasagittal,Anaplastic,Unconscious After Deterioration,Surgery,Yes,Yes,1520875,Severe,Morbimortality
+223,"Suzuki, et al.",2018,61,F,Subdural Hemorrhage,Falx,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,125000,Mild,Recovery
+224,"Schartz, et al.",2019,46,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Lateral Ventricle,Angiomatous,Conscious Preoperatively,Surgery,No,Yes,132651,Mild,Recovery
+225,"Aloraidi, et al.",2019,49,F,Subdural Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,No,Yes,31500,Mild,Recovery
+226,"Aloraidi, et al.",2019,49,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,9200,Mild,Recovery
+227,"Nery, et al.",2019,85,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,9200,Mild,Recovery
+228,"Masoudi, et al.",2019,36,F,Subdural Hemorrhage,Convexity,Fibroblastic,Unconscious After Deterioration,Surgery,Yes,Yes,114638,Severe,Morbimortality
+229,"Matsuoka, et al.",2019,61,F,Subdural Hemorrhage,Falx,Transitional,Conscious Preoperatively,Surgery,No,Yes,15625,Mild,Recovery
+230,"Han, et al.",2020,35,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,80000,Mild,Recovery
+231,"Shenai, et al., 2020 ",1997,75,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Angiomatous,Unconscious After Deterioration,Surgery,Yes,No,234000,Severe,Morbimortality
+232,"Matos, et al.",2020,40,F,Subdural Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,45000,Mild,Recovery
+233,"Itani, et al.",2020,67,M,Subdural Hemorrhage,Convexity,Transitional,Unconscious After Deterioration,Surgery,Yes,Yes,114638,Severe,Morbimortality
+234,"Alghabban, et al.",2020,74,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,3000,Mild,Recovery
+235,"Sato, et al.",2020,68,M,Subdural Hemorrhage,Falx,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,45000,Mild,Recovery
+236,"Omar, et al.",2020,68,M,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,45000,Mild,Recovery
+237,"Devia, et al.",2021,50,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,47232,Mild,Recovery
+238,Sumi et al.,2021,28,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Lateral Ventricle,Fibroblastic,Permanently Unconscius,Surgery,Yes,Yes,162500,Severe,Morbimortality
+239,"Nam, et al.",2021,53,F,Subdural Hemorrhage,Convexity,Angiomatous,Unconscious After Deterioration,Surgery,No,Yes,5850,Moderate,Recovery
+240,"Abolfotoh, et al.",2021,61,M,Subdural Hemorrhage,Convexity,Meningothelial,Unconscious After Deterioration,Surgery,No,Yes,1638,Severe,Recovery
+241,Present Case,1997,35,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,No,42000,Mild,Recovery
+242,"Wang, et al.",2023,58,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Anaplastic,Unconscious After Deterioration,Surgery,No,Yes,30702,Mild,Recovery
+243,"Sellier, et al.",2023,75,F,Subdural Hemorrhage,Convexity,Fibroblastic,Unconscious After Deterioration,Surgery,Yes,Yes,125000,Severe,Morbimortality
+244,"Tohma, et al.",2023,94,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,64000,Moderate,Morbimortality
+245,"Moss, et al.",2023,65,F,Subdural Hemorrhage,Convexity,Chordoid,Unconscious After Deterioration,Surgery,Yes,Yes,14256,Severe,Recovery
+246,"Aguiar, et al., 2023 ",1997,66,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Atypical,Conscious Preoperatively,Surgery,No,No,34632,Mild,Recovery
+247,"Ferrufino-Meija, et al.",2023,55,F,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,1638,Severe,Recovery
+248,"Bahakeem, et al.",2024,65,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,7524,Mild,Recovery
+249,"Alastra, et al.",2023,52,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,42180,Mild,Recovery
+250,"Birua, et al.",2021,19,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Anaplastic,Conscious Preoperatively,Surgery,No,Yes,64000,Mild,Recovery
+251,"Birua, et al.",2021,26,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,64000,Mild,Morbimortality
+252,"Birua, et al.",2021,45,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,64000,Mild,Morbimortality
+253,"Hu, et al.",2018,58,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Atypical,Unconscious After Deterioration,Surgery,Yes,Yes,216000,Mild,Morbimortality
+254,"Antal, et al.",2016,68,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Sphenoid,Meningothelial,Permanently Unconscius,Surgery,Yes,Yes,125000,Severe,Morbimortality
+255,"Wang, et al., 2016 ",1997,39,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Recovery
+256,"Wang, et al., 2016 ",1997,45,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Atypical,Conscious Preoperatively,Surgery,Yes,No,125000,Severe,Recovery
+257,"Wang, et al., 2016 ",1997,51,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Recovery
+258,"Wang, et al., 2016 ",1997,53,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Recovery
+259,"Wang, et al., 2016 ",1997,59,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Atypical,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Morbimortality
+260,"Wang, et al., 2016 ",1997,64,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Recovery
+261,"Xie, et al.",2022,59,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Unconscious After Deterioration,Surgery,Yes,Yes,274625,Mild,Morbimortality
+262,"Xie, et al.",2022,45,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Atypical,Unconscious After Deterioration,Surgery,No,Yes,59319,Mild,Recovery
+263,"Xie, et al.",2022,41,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,10648,Mild,Recovery
+264,"Xie, et al.",2022,41,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,389017,Mild,Recovery
+265,"Xie, et al.",2022,46,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Cystic ,Conscious Preoperatively,Surgery,Yes,Yes,29791,Mild,Recovery
+266,"Xie, et al.",2022,56,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Atypical,Conscious Preoperatively,Surgery,No,Yes,15625,Mild,Recovery
+267,"Xie, et al.",2022,71,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Clival,Angiomatous,Conscious Preoperatively,Surgery,No,Yes,148877,Mild,Recovery
+268,"Xie, et al.",2022,63,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Posterior Cranial Fossa,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,15625,Mild,Morbimortality
+269,"Xie, et al.",2022,57,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,79507,Mild,Recovery
+270,"Xie, et al.",2022,71,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Metaplastic,Conscious Preoperatively,Surgery,Yes,Yes,185193,Mild,Morbimortality
+271,"Xie, et al.",2022,46,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Parasagittal,Angiomatous,Conscious Preoperatively,Surgery,No,Yes,9261,Mild,Recovery
+272,"Xie, et al.",2022,71,M,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Olfatory Groove,Atypical,Permanently Unconscius,Surgery,Yes,Yes,314432,Severe,Morbimortality
+273,"Xie, et al.",2022,53,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Falx,Psammomatous,Conscious Preoperatively,Surgery,No,Yes,132651,Mild,Recovery
+274,"Xie, et al.",2022,19,M,Subdural Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,No,Yes,921375,Mild,Recovery
+275,"Xie, et al.",2022,79,M,Subdural Hemorrhage,Parasagittal,Metaplastic,Permanently Unconscius,Surgery,Yes,Yes,314432,Severe,Morbimortality
+276,"Xie, et al.",2022,51,F,Subdural Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,No,Yes,140608,Mild,Recovery
+277,"Xie, et al.",2022,53,F,Subdural Hemorrhage,Convexity,Angiomatous,Conscious Preoperatively,Surgery,Yes,Yes,166375,Mild,Recovery
+278,"Xie, et al.",2022,64,M,Subdural Hemorrhage,Parasagittal,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,68921,Mild,Recovery
+279,"Xie, et al.",2022,39,F,Subdural Hemorrhage,Falx,Chordoid,Conscious Preoperatively,Surgery,No,Yes,29791,Mild,Recovery
+280,"Al Ragheb, et al.",2024,78,M,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,No,Yes,1700,Mild,Recovery
+281,"?niegocki, et al.",2022,38,M,Subdural Hemorrhage,Convexity,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,15625,Mild,Morbimortality
+282,"?niegocki, et al.",2022,57,F,Subdural Hemorrhage,Convexity,Meningothelial,Unconscious After Deterioration,Surgery,Yes,Yes,12000,Moderate,Morbimortality
+283,"?niegocki, et al.",2022,82,F,Intracerebral Hemorrhage/Intratumoral Hemorrhage,Convexity,Meningothelial,Conscious Preoperatively,Surgery,Yes,Yes,64000,Mild,Morbimortality
+284,"Matsuno, et al.",2024,84,F,Subdural Hemorrhage,Falx,Fibroblastic,Unconscious After Deterioration,Surgery,Yes,Yes,125000,Severe,Morbimortality
+285,"Starreveld, et al., 2022-",1997,61,M,Subdural Hemorrhage,Convexity,Fibroblastic,Conscious Preoperatively,Surgery,Yes,No,80000,Severe,Recovery
+286,"Baba, et al.",2024,64,F,Subdural Hemorrhage,Falx,Transitional,Conscious Preoperatively,Surgery,Yes,Yes,15625,Mild,Morbimortality
+287,"Kubota, et al.",2022,77,F,Subdural Hemorrhage,Falx,Meningothelial,Unconscious After Deterioration,Surgery,Yes,Yes,216000,Severe,Morbimortality
+288,"Rao, et al.",2022,62,M,Subdural Hemorrhage,Convexity,Meningothelial,Unconscious After Deterioration,Surgery,No,Yes,97336,Mild,Recovery
+289,"Ono, et al., 2024 ",1997,49,F,Subdural Hemorrhage,Falx,Atypical,Conscious Preoperatively,Surgery,No,No,64000,Mild,Recovery
+290,"Ono, et al., 2024 ",1997,60,F,Subdural Hemorrhage,Falx,Atypical,Unconscious After Deterioration,Surgery,Yes,No,140608,Severe,Morbimortality
+291,"Suzuki, et al.",2024,76,F,Subdural Hemorrhage,Falx,Fibroblastic,Conscious Preoperatively,Surgery,Yes,Yes,421875,Mild,Morbimortality
+292,"Hishii, et al. ",2022,53,F,Subarachnoid Hemorrage,Posterior Cranial Fossa,Cystic ,Unconscious After Deterioration,Surgery,Yes,Yes,64000,Moderate,Morbimortality
+293,"Aizenberg, et al.",2022,76,F,Subdural Hemorrhage,Convexity,Atypical,Conscious Preoperatively,Surgery,Yes,Yes,64000,Mild,Morbimortality
+294,"Aizenberg, et al.",2022,52,F,Subdural Hemorrhage,Convexity,Chordoid,Unconscious After Deterioration,Surgery,No,Yes,5850,Moderate,Recovery
